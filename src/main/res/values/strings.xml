@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Diet4U</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Diet4U</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="about_us">About Us</string>
+    <string name="logout">Logout</string>
+    <string name="reminders">Water Reminder</string>
+    <string name="calories">Calories Calculator</string>
+    <string name="exercise_suggestions">Exercise Suggestions</string>
+    <string name="my_profile">My Profile</string>
+    <string name="meals_suggestions">Meals Suggestions</string>
+</resources>
